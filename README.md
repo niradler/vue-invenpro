@@ -6,7 +6,7 @@
 ---
 
 
-> GitHub [@fundon](https://github.com/niradler) &nbsp;&middot;&nbsp;
+> GitHub [@niradler](https://github.com/niradler) &nbsp;&middot;&nbsp;
 
 
 
