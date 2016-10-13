@@ -8,10 +8,13 @@
           </a>
         </div>
         <div class="nav-center">
-          <a class="nav-item hero-brand" href="/">
+          <a class="nav-item hero-brand" href="home">
+            <p>
+              <strong class="admin">invenpro</strong> powered by &nbsp;
+            </p>
             <img src="~assets/logo.svg" alt="Vue Admin Panel Framework">
             <div class="is-hidden-mobile">
-              <span class="vue">Vue</span><strong class="admin">Admin</strong>
+             <span class="vue">Vue</span><strong class="admin">Admin</strong>
             </div>
           </a>
         </div>

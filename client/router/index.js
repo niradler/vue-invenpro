@@ -16,6 +16,11 @@ export default new Router({
       component: require('../views/Home')
     },
     {
+      name: 'Login',
+      path: '/login',
+      component: require('../views/invenpro/auth/login')
+    },
+    {
       name: 'Store',
       path: '/store/:store_id',
       component: require('../views/invenpro/Store')
