@@ -15,6 +15,16 @@ export default new Router({
       path: '/',
       component: require('../views/Home')
     },
+    {
+      name: 'Store',
+      path: '/store/:store_id',
+      component: require('../views/invenpro/Store')
+    },
+    {
+      name: 'Product',
+      path: '/store/:store_id/product/:prod_id',
+      component: require('../views/invenpro/Product')
+    },
     ...generateRoutesFromMenu(menu),
     {
       path: '*',
